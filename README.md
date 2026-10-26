@@ -1,10 +1,8 @@
 # What'flow v1 — MarceMarce Interiores
 
-Protótipo estático mobile-first, sem backend, preparado para VS Code Live Server e GitHub Pages.
-
 ## Estrutura obrigatória
 
-Ao publicar, todos estes elementos devem ficar na raiz do repositório (não coloque a pasta inteira dentro de outra pasta):
+Ao publicar, todos estes elementos devem ficar na raiz do repositório:
 
 - `index.html`
 - `styles.css`
